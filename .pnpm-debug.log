@@ -1,4 +1,7 @@
-{
+{npm i -g pnpm
+npm i -g tsx
+pnpm i
+tsx . 
   "0 debug pnpm:scope": {
     "selected": 1
   },
